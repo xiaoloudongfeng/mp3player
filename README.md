@@ -1,6 +1,8 @@
-libmad_alsa_mp3player
+基于libmad与alsa的mp3播放器
 =====================
 
-一个基于libmad库的MP3播放器
-
-编译：make
+编译：<br>
+```
+git clone https://github.com/xiaoloudongfeng/mp3player.git
+cd mp3player
+make
